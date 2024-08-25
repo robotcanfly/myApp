@@ -8,7 +8,7 @@
 </script>
 
 <template>
-    Book List View
+    Book List Viewwwwwwwwwwwwwwwwwwwwwwww
     <div>
         <RouterLink :to="{ name: 'book-create' }">Create book</RouterLink>
         <ul>
