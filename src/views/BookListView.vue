@@ -8,7 +8,7 @@
 
     const loaddata=async()=>{
         try{
-            await axios.get(`https://116.206.127.158:3001/api/users/1`,{
+            await axios.get(`http://116.206.127.158:3001/api/users/1`,{
 
             })
             .then((resp)=>{
